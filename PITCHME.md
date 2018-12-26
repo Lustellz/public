@@ -1,7 +1,7 @@
 ---
 #1
 
-<img width="320" src="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/36722335_190504601616713_1426996518954467328_n.jpg?_nc_cat=102&_nc_ht=scontent-icn1-1.xx&oh=a7a8d3fe0273da425926fb48fc660f6c&oe=5C971DA4">
+<img width="120" src="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/36722335_190504601616713_1426996518954467328_n.jpg?_nc_cat=102&_nc_ht=scontent-icn1-1.xx&oh=a7a8d3fe0273da425926fb48fc660f6c&oe=5C971DA4">
 
 이름:
 
@@ -17,7 +17,7 @@
 #2
 ---
 
-<img width="320" src="https://user-images.githubusercontent.com/34672273/50433910-73530400-091e-11e9-8813-0380ab1ecaa1.png">
+<img width="120" src="https://user-images.githubusercontent.com/34672273/50433910-73530400-091e-11e9-8813-0380ab1ecaa1.png">
 
 이름: 이규진
 
@@ -31,12 +31,12 @@
 ---
 #3
 
-<img width="320" src="https://user-images.githubusercontent.com/34672273/50433830-00498d80-091e-11e9-80b5-ae395d270380.jpg">
+<img width="120" src="https://user-images.githubusercontent.com/34672273/50433830-00498d80-091e-11e9-80b5-ae395d270380.jpg">
 ---
 ---
 #4
 
-<img width="320" src = "https://user-images.githubusercontent.com/34672273/50433874-37b83a00-091e-11e9-9956-3ba70fc517ae.jpg">
+<img width="120" src = "https://user-images.githubusercontent.com/34672273/50433874-37b83a00-091e-11e9-9956-3ba70fc517ae.jpg">
 ---
 ---
 #5
