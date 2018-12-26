@@ -28,7 +28,7 @@
 연말계획: Python공부
 
 
-------?image=http://www.gisun.co.krwww.gisun.co.kr/web/data/file/b_05/1982128861_099863c5_RS40.jpg
+------?image=https://user-images.githubusercontent.com/34672273/50436546-d6966380-0929-11e9-8510-ff9742e8f337.jpg
 #3
 
 <img width="120" src="https://user-images.githubusercontent.com/34672273/50433830-00498d80-091e-11e9-80b5-ae395d270380.jpg">
@@ -44,7 +44,7 @@
   되돌아보며 얘기하기
 
 
-------?image=http://www.gisun.co.krwww.gisun.co.kr/web/data/file/b_05/1982128861_099863c5_RS40.jpg
+------?image=https://user-images.githubusercontent.com/34672273/50436546-d6966380-0929-11e9-8510-ff9742e8f337.jpg
 #4
 
 <img width="120" src = "https://user-images.githubusercontent.com/34672273/50433874-37b83a00-091e-11e9-9956-3ba70fc517ae.jpg">
@@ -58,7 +58,7 @@
 연말계획: 가족과 연말시상식 보기
 
 
-------?image=http://www.gisun.co.krwww.gisun.co.kr/web/data/file/b_05/1982128861_099863c5_RS40.jpg
+------?image=https://user-images.githubusercontent.com/34672273/50436546-d6966380-0929-11e9-8510-ff9742e8f337.jpg
 #5
 
 <img width="120" src = "https://user-images.githubusercontent.com/45252527/50433503-edce5480-091b-11e9-9de4-63a292ff028b.png">
