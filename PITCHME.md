@@ -1,15 +1,15 @@
 ---
 #1
 
-<img width="120" src="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/36722335_190504601616713_1426996518954467328_n.jpg?_nc_cat=102&_nc_ht=scontent-icn1-1.xx&oh=a7a8d3fe0273da425926fb48fc660f6c&oe=5C971DA4">
+<img width="120" src="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/21617877_1620885234640947_4016732577944580524_n.jpg?_nc_cat=100&_nc_ht=scontent-icn1-1.xx&oh=328fe365f25df15384a84b750e13d3b3&oe=5C9435AF">
 
-이름:
+이름: 김교훈
 
-별명:
+별명: 김교
 
-성격:
+성격: 나긋
 
-연말계획:
+연말계획: 서울
 
 ---
 ---
