@@ -9,7 +9,7 @@
 
 성격: 나긋
 
-연말계획: 서울구경
+연말계획: 서울
 
 ---
 ---
@@ -31,13 +31,13 @@
 
 <img width="120" src="https://user-images.githubusercontent.com/34672273/50433830-00498d80-091e-11e9-80b5-ae395d270380.jpg">
 
-이름: 김영훈
+이름: 
 
-별명: 노답부처
+별명:
 
-성격: 온순한편
+성격:
 
-연말계획: 많은 사람들과 올해를 되돌아보며 얘기하기
+연말계획: 
 
 ---
 ---
@@ -45,19 +45,19 @@
 
 <img width="120" src = "https://user-images.githubusercontent.com/34672273/50433874-37b83a00-091e-11e9-9956-3ba70fc517ae.jpg">
 
-이름: 진민재
+이름: 
 
-별명: 민지
+별명:
 
-성격: 온순
+성격:
 
-연말계획: 가족과 연말시상식 보기
+연말계획: 
 
 ---
 ---
 #5
 
-<img width ="120" src="![default](https://user-images.githubusercontent.com/45252527/50433503-edce5480-091b-11e9-9de4-63a292ff028b.png)">
+<img width="120" src = "https://user-images.githubusercontent.com/45252527/50433503-edce5480-091b-11e9-9de4-63a292ff028b.png">
 
 이름: 권령경
 
@@ -66,5 +66,3 @@
 성격: 스티브 잡스
 
 연말 계획: 집밖에 나오지 않기
-
----
