@@ -1,6 +1,6 @@
 ---?color=#000000
 
-@box[bg-orange text-white rounded demo-box-pad](롸)
+@box[bg-orange text-white rounded demo-box-pad](팀 TEMP 소개)
 
 
 ---
