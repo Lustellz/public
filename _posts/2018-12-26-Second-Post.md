@@ -1,5 +1,5 @@
 ---
-title: SSAFY Start Camp 챗봇 
+title: "[2주차 Reflection] 나만의 챗봇 - 명세서 작성"
 ---
 
 # 주제 1
