@@ -41,7 +41,7 @@
 
 연말계획: 많은 사람들과 올해를
 
-되돌아보며 얘기하기
+  되돌아보며 얘기하기
 
 
 ------?image=http://www.gisun.co.krwww.gisun.co.kr/web/data/file/b_05/1982128861_099863c5_RS40.jpg
