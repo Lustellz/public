@@ -1,8 +1,5 @@
----<body background="https://user-images.githubusercontent.com/34672273/50435633-700f4680-0925-11e9-93cd-71b2542fae0e.jpg">
- 
-@box[bg-orange text-white rounded demo-box-pad](팀 TEMP 소개)
-
-
+---
+<body background="https://user-images.githubusercontent.com/34672273/50435633-700f4680-0925-11e9-93cd-71b2542fae0e.jpg">
 ---
 #1
 
