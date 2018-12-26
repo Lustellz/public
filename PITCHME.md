@@ -27,3 +27,13 @@
 ---
 #5
 ---
+
+이름: 권령경
+
+별명: 건강쓰레기
+
+성격: 스티브 잡스
+
+![default](https://user-images.githubusercontent.com/45252527/50433503-edce5480-091b-11e9-9de4-63a292ff028b.png)
+
+연말 계획: 집밖에 나오지 않기
