@@ -1,4 +1,4 @@
----?color=#F6D365
+---?color=#000000
 
 @box[bg-orange text-white rounded demo-box-pad](롸)
 
