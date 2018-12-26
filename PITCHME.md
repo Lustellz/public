@@ -1,3 +1,8 @@
+---?color=#F6D365
+
+@box[bg-orange text-white rounded demo-box-pad](롸)
+
+
 ---
 #1
 
