@@ -1,5 +1,5 @@
 ---
-title: 자기 주도 학습
+title: SSAFY Start Camp 챗봇 
 ---
 
 # 주제 1
